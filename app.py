@@ -1,5 +1,5 @@
-#import streamlit as st
-#commited import statement
+import streamlit as st
+
 
 # Title of the app
 st.title("BMI Calculator")
